@@ -45,12 +45,13 @@ Plus smaller sets in [freeswitch/verto-client](https://github.com/freeswitch/ver
 
 ### Built and maintained by me
 
-Sole author on these.
+Chess is mine start to finish. Sidecar grew out of an earlier prototype and I did the
+bulk of the build.
 
 | | |
 |---|---|
-| **[Chess](https://github.com/signalwire-demos/chess)** | Play live chess against an agent over a realtime connection |
-| **[Sidecar](https://github.com/signalwire-demos/sidecar)** | AI assisting a human rep on a live call, rather than replacing them |
+| **[Chess](https://github.com/signalwire-demos/chess)** · sole author | Play live chess against an agent over a realtime connection |
+| **[Sidecar](https://github.com/signalwire-demos/sidecar)** · primary author | AI assisting a human rep on a live call, rather than replacing them |
 
 ### Things you can actually talk to
 
