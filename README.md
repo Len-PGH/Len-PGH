@@ -1,20 +1,24 @@
 ## Hi, I'm Len
 
-I build voice AI agents — the kind you can pick up a phone and actually talk to.
+I teach telephones to hold up their end of a conversation.
 
-Most of my work lives at the seam where telephony meets LLMs: real calls, real APIs,
-real WebRTC video in the browser, built on the [SignalWire AI Agents SDK](https://developer.signalwire.com/agents-sdk).
-I came to it from the PBX side — a decade of FusionPBX and FreeSWITCH — and that
-shapes how I build: get the proof of concept working end to end on real
-infrastructure first, then add the polish on top of something that already holds
-up on a live call.
+My work sits where telephony meets language models: real calls over real carriers, real
+APIs, real video in the browser, built on the
+[SignalWire AI Agents SDK](https://developer.signalwire.com/agents-sdk). The phone network
+is a century of accumulated engineering discipline and it is unforgiving in the way good
+infrastructure should be. Teaching it to think is the most interesting problem I've been
+handed.
+
+I came to it from the PBX side, after a decade of FusionPBX and FreeSWITCH, and that decides
+the order I build in: prove the thing end to end on real infrastructure first, then make it
+elegant. A demo that survives a live call has earned the right to look good.
 
 Pittsburgh, PA.
 
 ### Upstream
 
-Open-source contributions to external projects, since 2015 — primarily FusionPBX,
-FreeSWITCH and SignalWire.
+Eleven years of open-source contribution, primarily across FusionPBX, FreeSWITCH
+and SignalWire.
 
 | | |
 |---|---|
@@ -56,8 +60,8 @@ Chess is mine start to finish. Sidecar began as an earlier prototype from
 
 ### Things you can actually talk to
 
-Team projects I contributed to. These are live — call them, or click the video
-button and talk in the browser.
+Team projects I contributed to. Every one of them is live: call it, or click the video
+button and talk in the browser. They answer.
 
 | | |
 |---|---|
@@ -73,42 +77,45 @@ button and talk in the browser.
 
 ### ClueCon
 
-The maker challenges and stage tooling I've built for ClueCon, the annual FreeSWITCH
-and telephony developer conference.
+Maker challenges and stage tooling built for ClueCon, the annual FreeSWITCH and telephony
+developer conference. Once a year the industry gathers in one room, and I try to give it
+something to play with.
 
-**2026 — [The Prompt Pit](https://github.com/Len-PGH/prompt_pit)** · sole author
-A live, esports-style control room for the Vibe Coding Championship. One container drives
-every screen in the room — stage, scoreboard, admin — and lets the whole audience vote from
-their phones three ways: on the web, by SMS, or by calling a number and telling an AI agent
-who they're backing. The [prototype challenges](https://github.com/Len-PGH/prototype_challenges_for_prompt_pit)
-— five callable agents contestants had to bend to a goal — live in their own repo.
+**2026 · [The Prompt Pit](https://github.com/Len-PGH/prompt_pit)** · sole author
+An esports-style control room for the Vibe Coding Championship. A single container drives
+every screen in the house (stage, scoreboard, admin) and lets the entire audience vote from
+their phones three ways: on the web, by SMS, or by ringing a number and telling an AI agent
+who they are backing. The
+[prototype challenges](https://github.com/Len-PGH/prototype_challenges_for_prompt_pit), five
+callable agents that contestants had to bend to their will, live in their own repo.
 
-**2026 — [Buzzword Bingo](https://github.com/Len-PGH/buzzword-bingo)** · sole author
-Live audience bingo for talks. Scan a QR, draw a card that locks to you, and blot buzzwords as
-the speaker says them — positive buzz for good engineering and responsible AI, negative for hype,
-AI names as free-for-alls — with the room's buzz sentiment updating live on stage. Rounds reset
-per speaker and winners persist across the day.
+**2026 · [Buzzword Bingo](https://github.com/Len-PGH/buzzword-bingo)** · sole author
+Live audience bingo for conference talks. Scan a QR, draw a card that locks to you, and blot
+buzzwords as the speaker says them. Positive buzz counts for sound engineering and responsible AI,
+negative for hype, and AI product names are a free-for-all. The room's collective sentiment updates
+on stage in real time, which is either a gift to the speaker or a quiet act of accountability,
+depending on the talk.
 
-**2025 — [Coder Games, Maker Challenge](https://github.com/signalwire/ClueCon_Coder_Games)** · sole author
-Built and maintain the SignalWire Maker Challenge for [ClueCon Coder Games](https://www.cluecon.com/coder-games):
-an ESP32 whose LEDs are driven from the phone network, one sketch reacting to an inbound SMS
-and another to a voice call, with the wiring diagram and credentials scaffold so entrants start
-from working code. Paired with an [LED control agent](https://github.com/Len-PGH/2025) that
-takes the colour and on/off state by voice.
+**2025 · [Coder Games, Maker Challenge](https://github.com/signalwire/ClueCon_Coder_Games)** · sole author
+The SignalWire Maker Challenge for [ClueCon Coder Games](https://www.cluecon.com/coder-games):
+an ESP32 whose LEDs answer to the phone network, one sketch driven by an inbound SMS and another
+by a voice call. It ships with the wiring diagram and a credentials scaffold, so entrants spend
+the hour on the idea rather than the boilerplate. Paired with an
+[LED control agent](https://github.com/Len-PGH/2025) that takes colour and on/off state by voice.
 
-**2024 — [FreeSWITCH ClueCon Lab](https://github.com/signalwire/freeswitch-cluecon-lab)** · contributor
+**2024 · [FreeSWITCH ClueCon Lab](https://github.com/signalwire/freeswitch-cluecon-lab)** · contributor
 Brought the hands-on FreeSWITCH lab up to date for the conference: moved the image to Debian
 bookworm, took the IPv6 profiles out of the load path, and corrected the docker-compose and
 event-socket config so the lab came up clean for attendees.
-**2023 — [Maker Challenge, ESP32-S3](https://github.com/Len-PGH/Cluecon2023)** · sole author
-Connect a phone call from a button press. Five sketches scaling from "the board joined wifi,
-send an SMS" up to a physical button placing a call, with an optional DHT11 reading riding
-along — plus parts list, wiring photos and per-sketch write-ups.
+**2023 · [Maker Challenge, ESP32-S3](https://github.com/Len-PGH/Cluecon2023)** · sole author
+Place a phone call from a button press. Five sketches that climb from "the board joined wifi,
+send an SMS" up to a physical button dialling out, with an optional temperature reading along for
+the ride. Parts list, wiring photos and a write-up for each one.
 
 
 ### Microcontrollers
 
-Small boards talking to the phone network.
+Small boards with something to say to the phone network.
 
 | | |
 |---|---|
@@ -119,7 +126,7 @@ Small boards talking to the phone network.
 
 ### Side projects
 
-- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)** — embedding a Jitsi room inside FusionPBX
+- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)**: embedding a Jitsi room inside FusionPBX
 
 ---
 
