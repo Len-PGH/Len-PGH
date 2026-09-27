@@ -114,7 +114,7 @@ the ride. Parts list, wiring photos and a write-up for each one.
 
 ### Microcontrollers
 
-Small boards with something to say to the phone network.
+Small boards with something to say to the phone network. Most of them are well grounded.
 
 | | |
 |---|---|
@@ -125,7 +125,7 @@ Small boards with something to say to the phone network.
 
 ### Side projects
 
-- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)**: embedding a Jitsi room inside FusionPBX
+- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)**: embedding a Jitsi room inside FusionPBX, so the phone system could finally put a face to the name
 
 ---
 
