@@ -93,8 +93,7 @@ callable agents that contestants had to bend to their will, live in their own re
 Live audience bingo for conference talks. Scan a QR, draw a card that locks to you, and blot
 buzzwords as the speaker says them. Positive buzz counts for sound engineering and responsible AI,
 negative for hype, and AI product names are a free-for-all. The room's collective sentiment updates
-on stage in real time, which is either a gift to the speaker or a quiet act of accountability,
-depending on the talk.
+on stage in real time, which speakers enjoy right up until the hype column starts filling in.
 
 **2025 · [Coder Games, Maker Challenge](https://github.com/signalwire/ClueCon_Coder_Games)** · sole author
 The SignalWire Maker Challenge for [ClueCon Coder Games](https://www.cluecon.com/coder-games):
