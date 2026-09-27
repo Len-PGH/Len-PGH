@@ -13,7 +13,7 @@ Pittsburgh, PA.
 
 ### Upstream
 
-Open-source contributions to external projects, since 2015 — chiefly FusionPBX,
+Open-source contributions to external projects, since 2015 — primarily FusionPBX,
 FreeSWITCH and SignalWire.
 
 | | |
@@ -80,7 +80,14 @@ and telephony developer conference.
 A live, esports-style control room for the Vibe Coding Championship. One container drives
 every screen in the room — stage, scoreboard, admin — and lets the whole audience vote from
 their phones three ways: on the web, by SMS, or by calling a number and telling an AI agent
-who they're backing.
+who they're backing. The [prototype challenges](https://github.com/Len-PGH/prototype_challenges_for_prompt_pit)
+— five callable agents contestants had to bend to a goal — live in their own repo.
+
+**2026 — [Buzzword Bingo](https://github.com/Len-PGH/buzzword-bingo)** · sole author
+Live audience bingo for talks. Scan a QR, draw a card that locks to you, and blot buzzwords as
+the speaker says them — positive buzz for good engineering and responsible AI, negative for hype,
+AI names as free-for-alls — with the room's buzz sentiment updating live on stage. Rounds reset
+per speaker and winners persist across the day.
 
 **2025 — [Coder Games, Maker Challenge](https://github.com/signalwire/ClueCon_Coder_Games)** · sole author
 Built and maintain the SignalWire Maker Challenge for [ClueCon Coder Games](https://www.cluecon.com/coder-games):
