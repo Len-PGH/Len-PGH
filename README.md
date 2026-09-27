@@ -13,7 +13,8 @@ Pittsburgh, PA.
 
 ### Upstream
 
-Contributions to repositories I don't own, since 2015.
+Open-source contributions to external projects, since 2015 — chiefly FusionPBX,
+FreeSWITCH and SignalWire.
 
 | | |
 |---|---|
@@ -45,8 +46,8 @@ Plus smaller sets in [freeswitch/verto-client](https://github.com/freeswitch/ver
 
 ### Built and maintained by me
 
-Chess is mine start to finish. Sidecar grew out of an earlier prototype and I did the
-bulk of the build.
+Chess is mine start to finish. Sidecar began as an earlier prototype from
+[Brian](https://github.com/briankwest); I did the bulk of the build.
 
 | | |
 |---|---|
