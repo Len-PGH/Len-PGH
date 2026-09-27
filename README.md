@@ -4,9 +4,10 @@ I build voice AI agents — the kind you can pick up a phone and actually talk t
 
 Most of my work lives at the seam where telephony meets LLMs: real calls, real APIs,
 real WebRTC video in the browser, built on the [SignalWire AI Agents SDK](https://developer.signalwire.com/agents-sdk).
-I came to it from the PBX side — a decade of FusionPBX and FreeSWITCH — which is
-probably why I care less about the demo that looks good in a screenshot and more
-about the one that survives a real phone call.
+I came to it from the PBX side — a decade of FusionPBX and FreeSWITCH — and that
+shapes how I build: get the proof of concept working end to end on real
+infrastructure first, then add the polish on top of something that already holds
+up on a live call.
 
 Pittsburgh, PA.
 
