@@ -1,6 +1,6 @@
 ## [Hi, I'm Len](https://len-pgh.github.io/)
 
-I teach telephones to hold up their end of a conversation.
+I build voice AI agents that answer real phone calls.
 
 My work sits where telephony meets language models: real calls over real carriers, real
 APIs, real video in the browser, built on the
