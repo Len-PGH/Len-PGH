@@ -69,12 +69,47 @@ button and talk in the browser.
 | **[Cabby](https://cabby.signalwire.io)** | Taxi booking |
 | **[GoAir](https://goair.signalwire.io)** | Airline agent doing real work against real APIs |
 
+### ClueCon
+
+The maker challenges and stage tooling I've built for ClueCon, the annual FreeSWITCH
+and telephony developer conference.
+
+**2026 — [The Prompt Pit](https://github.com/Len-PGH/prompt_pit)** · sole author
+A live, esports-style control room for the Vibe Coding Championship. One container drives
+every screen in the room — stage, scoreboard, admin — and lets the whole audience vote from
+their phones three ways: on the web, by SMS, or by calling a number and telling an AI agent
+who they're backing.
+
+**2025 — [Coder Games, Maker Challenge](https://github.com/signalwire/ClueCon_Coder_Games)** · sole author
+Built and maintain the SignalWire Maker Challenge for [ClueCon Coder Games](https://www.cluecon.com/coder-games):
+an ESP32 whose LEDs are driven from the phone network, one sketch reacting to an inbound SMS
+and another to a voice call, with the wiring diagram and credentials scaffold so entrants start
+from working code. Paired with an [LED control agent](https://github.com/Len-PGH/2025) that
+takes the colour and on/off state by voice.
+
+**2023 — [Maker Challenge, ESP32-S3](https://github.com/Len-PGH/Cluecon2023)** · sole author
+Connect a phone call from a button press. Five sketches scaling from "the board joined wifi,
+send an SMS" up to a physical button placing a call, with an optional DHT11 reading riding
+along — plus parts list, wiring photos and per-sketch write-ups.
+
+**2021 — [FreeSWITCH ClueCon Lab](https://github.com/signalwire/freeswitch-cluecon-lab)** · contributor
+The hands-on FreeSWITCH lab used at the conference.
+
+### Microcontrollers
+
+Small boards talking to the phone network.
+
+| | |
+|---|---|
+| **[ESP32-S3 call button](https://github.com/Len-PGH/Cluecon2023)** | Button press places a real phone call; wifi-connect and SMS variants, optional DHT11 |
+| **[Phone-controlled LEDs](https://github.com/signalwire/ClueCon_Coder_Games)** | ESP32 LEDs driven by an inbound SMS or a voice call, with wiring diagram |
+| **[ESP32 / AHT10 / OLED](https://github.com/Len-PGH/ESP32-AHT10-OLED)** | Temperature and humidity on a little OLED, reporting over HTTP |
+| **[Sensor AI](https://github.com/Len-PGH/Sensor-ai)** | ESP8266 and DHT11 into ThingSpeak, read back to callers by a voice agent |
+
 ### Side projects
 
 - **[FusionPBX apps](https://github.com/Len-PGH/fusionpbx_apps)** — Debian packages for FusionPBX
 - **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)** — embedding a Jitsi room inside FusionPBX
-- **[ESP32 / AHT10 / OLED](https://github.com/Len-PGH/ESP32-AHT10-OLED)** — sensor readings over HTTP
-- **[Sensor AI](https://github.com/Len-PGH/Sensor-ai)** — ESP8266 and DHT11 feeding ThingSpeak
 
 ---
 
