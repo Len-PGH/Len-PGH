@@ -110,7 +110,6 @@ Small boards talking to the phone network.
 
 ### Side projects
 
-- **[FusionPBX apps](https://github.com/Len-PGH/fusionpbx_apps)** — Debian packages for FusionPBX
 - **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)** — embedding a Jitsi room inside FusionPBX
 
 ---
