@@ -79,7 +79,7 @@ button and talk in the browser. They answer.
 
 Maker challenges and stage tooling built for ClueCon, the annual FreeSWITCH and telephony
 developer conference. Once a year the industry gathers in one room, and I try to give it
-something to play with.
+something hands-on to build.
 
 **2026 · [The Prompt Pit](https://github.com/Len-PGH/prompt_pit)** · sole author
 An esports-style control room for the Vibe Coding Championship. A single container drives
