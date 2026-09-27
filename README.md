@@ -125,7 +125,7 @@ Small boards with something to say to the phone network. Most of them are well g
 
 ### Side projects
 
-- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)**: embedding a Jitsi room inside FusionPBX, so the phone system could finally put a face to the name
+- **[FusionPBX + Jitsi Meet](https://github.com/Len-PGH/fusionpbx-jitsimeet)**: embedding a Jitsi room inside FusionPBX
 
 ---
 
