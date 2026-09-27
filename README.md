@@ -96,13 +96,15 @@ and another to a voice call, with the wiring diagram and credentials scaffold so
 from working code. Paired with an [LED control agent](https://github.com/Len-PGH/2025) that
 takes the colour and on/off state by voice.
 
+**2024 — [FreeSWITCH ClueCon Lab](https://github.com/signalwire/freeswitch-cluecon-lab)** · contributor
+Brought the hands-on FreeSWITCH lab up to date for the conference: moved the image to Debian
+bookworm, took the IPv6 profiles out of the load path, and corrected the docker-compose and
+event-socket config so the lab came up clean for attendees.
 **2023 — [Maker Challenge, ESP32-S3](https://github.com/Len-PGH/Cluecon2023)** · sole author
 Connect a phone call from a button press. Five sketches scaling from "the board joined wifi,
 send an SMS" up to a physical button placing a call, with an optional DHT11 reading riding
 along — plus parts list, wiring photos and per-sketch write-ups.
 
-**2021 — [FreeSWITCH ClueCon Lab](https://github.com/signalwire/freeswitch-cluecon-lab)** · contributor
-The hands-on FreeSWITCH lab used at the conference.
 
 ### Microcontrollers
 
